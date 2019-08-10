@@ -1,0 +1,23 @@
+{
+  "name": "apitest",
+  "version": "1.0.0",
+  "description": "\"# ApiTest\" \r \"# ApiTest\"",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jayesh-Mudliyar/ApiTest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jayesh-Mudliyar/ApiTest/issues"
+  },
+  "homepage": "https://github.com/Jayesh-Mudliyar/ApiTest#readme"
+}
